@@ -33,3 +33,12 @@ p.pad {
 	
 }
 
+p.topic{
+text-align: justify;
+font-size: 140%;
+}
+
+div.info {
+	font-size: 110%;
+display:block;
+}
